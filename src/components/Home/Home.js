@@ -49,9 +49,6 @@ function Home() {
               <TextLink text={"National Taiwan University."} link={"https://www.ntu.edu.tw/english/"} />
             <br /> 
             <br />
-              Now focusing on Data science and Machine learning  (fun!!!). 
-            <br /> 
-            <br />
               Built / cofounded 
               <TextLink text={"Linking Book"} link={"https://linkingbook.io"} />
               , 
@@ -63,6 +60,9 @@ function Home() {
             <br />
               and interned @  
               <TextLink text={"CytoAurora Biotechnologies"} link={"https://www.cytoaurora.com/home"} />
+            <br /> 
+            <br />
+              Now do more software engineering(fun!!!) 
             <br /> 
             <br />
               I also do magic and play basketball!
