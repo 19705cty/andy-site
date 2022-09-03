@@ -51,9 +51,9 @@ function Home() {
             <br />
               Built / cofounded 
               <TextLink text={"Linking Book"} link={"https://linkingbook.io"} />
-              , 
-              <TextLink text={"RemoteNC"} link={"https://www.remotenc.com/"} />
-              , and 
+              {/* ,  */}
+              {/* <TextLink text={"RemoteNC"} link={"https://www.remotenc.com/"} /> */}
+              and 
               <TextLink text={"Quoger"} link={"https://www.linkedin.com/company/quoger/"} />
               ,
             <br /> 
