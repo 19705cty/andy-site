@@ -60,6 +60,7 @@ function Home() {
             <br />
               and interned @  
               <TextLink text={"CytoAurora Biotechnologies"} link={"https://www.cytoaurora.com/home"} />
+              . (2023 CES award)
             <br /> 
             <br />
               Now do more software engineering(fun!!!) 
